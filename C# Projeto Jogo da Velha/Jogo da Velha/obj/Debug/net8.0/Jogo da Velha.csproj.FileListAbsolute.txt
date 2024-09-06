@@ -1,0 +1,14 @@
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\bin\Debug\net8.0\Jogo da Velha.exe
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\bin\Debug\net8.0\Jogo da Velha.deps.json
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\bin\Debug\net8.0\Jogo da Velha.runtimeconfig.json
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\bin\Debug\net8.0\Jogo da Velha.dll
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\bin\Debug\net8.0\Jogo da Velha.pdb
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\obj\Debug\net8.0\Jogo da Velha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\obj\Debug\net8.0\Jogo da Velha.AssemblyInfoInputs.cache
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\obj\Debug\net8.0\Jogo da Velha.AssemblyInfo.cs
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\obj\Debug\net8.0\Jogo da Velha.csproj.CoreCompileInputs.cache
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\obj\Debug\net8.0\Jogo da Velha.dll
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\obj\Debug\net8.0\refint\Jogo da Velha.dll
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\obj\Debug\net8.0\Jogo da Velha.pdb
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\obj\Debug\net8.0\Jogo da Velha.genruntimeconfig.cache
+D:\Programação\C# Projeto Jogo da Velha\Jogo da Velha\obj\Debug\net8.0\ref\Jogo da Velha.dll
